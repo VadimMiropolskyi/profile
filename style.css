@@ -1,3 +1,5 @@
+@import url(./components/education_block.css);
+
 .container {
     width: 700px;
     margin: 40px auto;
@@ -74,6 +76,7 @@ img {
     margin: 20px 0px;
     text-align: center;
 }
+
 
 .img-circle {
     border-radius: 50%;
