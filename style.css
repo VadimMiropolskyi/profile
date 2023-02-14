@@ -38,8 +38,8 @@
     }
 
     .card-experience-info {
-        display: flex;
-        justify-content: space-between;
+        display: grid;
+        place-items: center;
     }
 
     .card-experience-info > div {
