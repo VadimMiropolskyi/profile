@@ -40,6 +40,7 @@
     .card-experience-info {
         display: grid;
         place-items: center;
+        margin-left: 19px;
     }
 
     .card-experience-info > div {
