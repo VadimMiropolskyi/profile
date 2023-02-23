@@ -1,5 +1,6 @@
 @import url(./components/education_block.css);
 @import url(./components/experience_block.css);
+@import url(./components/contacts_page.css);
 
 .container {
     width: 700px;
